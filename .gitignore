@@ -1,0 +1,9 @@
+# working files, not part of the site
+cozy/
+screenshots/
+.taste-skill/
+# photos from the earlier cozy version, unused by this site
+assets/r/
+assets/mood/
+assets/detail/
+assets/video/tea.*
